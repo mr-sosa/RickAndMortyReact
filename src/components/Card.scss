@@ -1,0 +1,13 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+    &-img {
+      width: 18rem !important;
+    };
+    &-title {
+      width: 16rem !important;
+    };
+    margin: .625rem !important;
+  }
